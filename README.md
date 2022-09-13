@@ -1,6 +1,6 @@
 # CONSULTAS SQL
 
-![tabla_usuario](img/img1/img1.png "Tabla usuario")
+![tabla_usuario](img/img1.png "Tabla usuario")
 
 1. Para visualizar toda la informacion que contiene la tabla `usuario` se puede incluir con la inclusion SELCET el caracter "*" o cada uno de los campos de la tabla
 `select * from usuario`
