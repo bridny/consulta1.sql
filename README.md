@@ -1,6 +1,6 @@
-#CONSULTAS SQL
+# CONSULTAS SQL
 
-![tabla usuario](img/img1.png "tabla usuario")
+![tabla_usuario](img/img1.png "Tabla usuario")
 
 1. Para visualizar toda la informacion que contiene la tabla `usuario` se puede incluir con la inclusion SELCET el caracter "*" o cada uno de los campos de la tabla
 `select * from usuario`
@@ -30,6 +30,7 @@ O se puede utilizar el operador OR
 `SELECT apellidos FROM usuario WHERE apellidos ='Vanegas' OR apellidos ='Cetina'`
 
 ![Consulta4](img/img4.2.png "consulta 4 pero con OR")
+
 
 5. Si se desea obtener los registros cuya identificación sea menor de '150' y la ciudad sea 'Cali', se debe utilizar el operador AND.
 
