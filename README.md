@@ -68,13 +68,13 @@ O se puede utilizar el operador OR
 
 `DELETE * FROM usuario WHERE Identificación>130'`
 
-![Consulta10](img/img10.png"consulta 10")
-![Consulta10](img/img10.2.png"consulta 10")
+![Consulta10](img/img10.png "consulta 10")
+![Consulta10](img/img10.2.png "consulta 10")
 
 ## COMANDO UPDATE
 11. Para actualizar la ciudad de nacimiento de Cristian Vanegas, cuya identificación es 114
 
 `UPDATE usuario SET ciudad nac='Manizales' WHERE Identificación='114'`
 
-![Consulta11](img/img11.png.png"consulta 11")
-![Consulta11](img/img11.2.png"consulta 11")
+![Consulta11](img/img11.png.png "consulta 11")
+![Consulta11](img/img11.2.png "consulta 11")
