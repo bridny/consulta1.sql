@@ -76,5 +76,5 @@ O se puede utilizar el operador OR
 
 `UPDATE usuario SET ciudad nac='Manizales' WHERE Identificación='114'`
 
-![Consulta11](img/img11.png.png "consulta 11")
+![Consulta11](img/img11.png "consulta 11")
 ![Consulta11](img/img11.2.png "consulta 11")
