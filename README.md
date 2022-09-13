@@ -30,3 +30,15 @@ O se puede utilizar el operador OR
 `SELECT apellidos FROM usuario WHERE apellidos ='Vanegas' OR apellidos ='Cetina'`
 
 ![Consulta4](img/img4.2.png "consulta 4 pero con OR")
+
+5. Si se desea obtener los registros cuya identificación sea menor de '150' y la ciudad sea 'Cali', se debe utilizar el operador AND.
+
+`SELECT * FROM usuario WHERE Identificación<'150' AND ciudad_nace='Cali'`
+
+![Consulta5](img/img5.png "consulta 5")
+
+6. Si se desea obtener los registros cuyos nombes que empiecen por a letra 'A', se debe utilizar el operador LIKE que utiliza los patrones '%' y '_' (caracter).
+
+`SELECT * FROM usuario WHERE nombre LIKE 'A%'`
+
+![Consulta6](img/img6.png "consulta 6")
